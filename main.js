@@ -19,7 +19,7 @@
  //      btn.textContent = '凶';
  //      break;
  //   }
- });
+　 });
  btn.addEventListener('mousedown', () => {
    btn.classList.add('pressed');
  });
